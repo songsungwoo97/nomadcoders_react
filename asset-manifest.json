@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomadcoders_react/static/js/main.eee82edb.js",
+    "index.html": "/nomadcoders_react/index.html",
+    "main.eee82edb.js.map": "/nomadcoders_react/static/js/main.eee82edb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eee82edb.js"
+  ]
+}
